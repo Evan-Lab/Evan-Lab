@@ -6,9 +6,10 @@
 
 ## 📌 About Me
 
-- 🎓 **Student at [Epitech](https://www.epitech.eu/)**
-- 🏢 **Currently working as a Full Stack Developer at [Delos Intelligence](https://www.delosintelligence.fr/)**
-- 🌱 **Currently learning ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css) and ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)**
+- 🎓 **Student at [Epitech](https://www.epitech.eu/) in France**
+- 🎓 **Actually studying at [California State Univeristy of Long Beach](https://www.csulb.edu/) in the United States**
+- 🏢 **Currently working as a Freelance Full Stack Developer at [Delos Intelligence](https://www.delosintelligence.fr/)**
+- 🌱 **Currently learning** ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) **and** ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
 
 ## 🔗 Technologies & Languages
 
@@ -22,4 +23,4 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
